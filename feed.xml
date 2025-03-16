@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>website1.0</title>
+    <link href="https://cybersyn-dev.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://cybersyn-dev.github.io/publii-test" />
+    <updated>2025-03-16T15:11:41-05:00</updated>
+    <author>
+        <name>rb</name>
+    </author>
+    <id>https://cybersyn-dev.github.io/publii-test</id>
+
+    <entry>
+        <title>2nd Post</title>
+        <author>
+            <name>rb</name>
+        </author>
+        <link href="https://cybersyn-dev.github.io/publii-test/2nd-post/"/>
+        <id>https://cybersyn-dev.github.io/publii-test/2nd-post/</id>
+            <category term="Tag 1"/>
+
+        <updated>2025-03-16T15:09:46-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://cybersyn-dev.github.io/publii-test/media/posts/4/Interface_Rev-1024x701.png" alt="" width="1024" height="701" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-xs.png 320w ,https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-sm.png 480w ,https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-md.png 768w ,https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-xl.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>1st Post</title>
+        <author>
+            <name>rb</name>
+        </author>
+        <link href="https://cybersyn-dev.github.io/publii-test/3rd-page/"/>
+        <id>https://cybersyn-dev.github.io/publii-test/3rd-page/</id>
+            <category term="Tag 1"/>
+
+        <updated>2025-03-16T14:54:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my 3rd page Table 1 1 2 3 4 5
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>This is my 3rd page</strong></p>
+<table class="align-center" style="border-collapse: collapse; width: 100%; border-style: groove;" border="1"><caption>Table 1</caption>
+<tbody>
+<tr>
+<td style="width: 19.9801%;">1</td>
+<td style="width: 19.9801%;">2</td>
+<td style="width: 19.9801%;">3</td>
+<td style="width: 19.9801%;">4</td>
+<td style="width: 19.9846%;">5</td>
+</tr>
+<tr>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9846%;"> </td>
+</tr>
+<tr>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9846%;"> </td>
+</tr>
+<tr>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9801%;"> </td>
+<td style="width: 19.9846%;"> </td>
+</tr>
+</tbody>
+</table>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://cybersyn-dev.github.io/publii-test/media/posts/3/Antikythera_-1024x791.webp" alt="" width="1024" height="791" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-xs.webp 320w ,https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-sm.webp 480w ,https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-md.webp 768w ,https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-xl.webp 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
