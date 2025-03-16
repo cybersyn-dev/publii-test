@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "website1.0",
     "description": "",
-    "home_page_url": "https://cybersyn-dev.github.io/publii-test",
-    "feed_url": "https://cybersyn-dev.github.io/publii-test/feed.json",
+    "home_page_url": "https://publii.cybersyn.cloud",
+    "feed_url": "https://publii.cybersyn.cloud/feed.json",
     "user_comment": "",
     "author": {
         "name": "rb"
     },
     "items": [
         {
-            "id": "https://cybersyn-dev.github.io/publii-test/2nd-post/",
-            "url": "https://cybersyn-dev.github.io/publii-test/2nd-post/",
+            "id": "https://publii.cybersyn.cloud/2nd-post/",
+            "url": "https://publii.cybersyn.cloud/2nd-post/",
             "title": "2nd Post",
-            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://cybersyn-dev.github.io/publii-test/media/posts/4/Interface_Rev-1024x701.png\" alt=\"\" width=\"1024\" height=\"701\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-xs.png 320w ,https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-sm.png 480w ,https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-md.png 768w ,https://cybersyn-dev.github.io/publii-test/media/posts/4/responsive/Interface_Rev-1024x701-xl.png 1024w\"></figure>",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://publii.cybersyn.cloud/media/posts/4/Interface_Rev-1024x701.png\" alt=\"\" width=\"1024\" height=\"701\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://publii.cybersyn.cloud/media/posts/4/responsive/Interface_Rev-1024x701-xs.png 320w ,https://publii.cybersyn.cloud/media/posts/4/responsive/Interface_Rev-1024x701-sm.png 480w ,https://publii.cybersyn.cloud/media/posts/4/responsive/Interface_Rev-1024x701-md.png 768w ,https://publii.cybersyn.cloud/media/posts/4/responsive/Interface_Rev-1024x701-xl.png 1024w\"></figure>",
             "author": {
                 "name": "rb"
             },
@@ -24,11 +24,11 @@
             "date_modified": "2025-03-16T15:11:41-05:00"
         },
         {
-            "id": "https://cybersyn-dev.github.io/publii-test/3rd-page/",
-            "url": "https://cybersyn-dev.github.io/publii-test/3rd-page/",
+            "id": "https://publii.cybersyn.cloud/3rd-page/",
+            "url": "https://publii.cybersyn.cloud/3rd-page/",
             "title": "1st Post",
             "summary": "This is my 3rd page Table 1 1 2 3 4 5",
-            "content_html": "<p><strong>This is my 3rd page</strong></p>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; border-style: groove;\" border=\"1\"><caption>Table 1</caption>\n<tbody>\n<tr>\n<td style=\"width: 19.9801%;\">1</td>\n<td style=\"width: 19.9801%;\">2</td>\n<td style=\"width: 19.9801%;\">3</td>\n<td style=\"width: 19.9801%;\">4</td>\n<td style=\"width: 19.9846%;\">5</td>\n</tr>\n<tr>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9846%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9846%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9846%;\"> </td>\n</tr>\n</tbody>\n</table>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://cybersyn-dev.github.io/publii-test/media/posts/3/Antikythera_-1024x791.webp\" alt=\"\" width=\"1024\" height=\"791\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-xs.webp 320w ,https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-sm.webp 480w ,https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-md.webp 768w ,https://cybersyn-dev.github.io/publii-test/media/posts/3/responsive/Antikythera_-1024x791-xl.webp 1024w\"></figure>",
+            "content_html": "<p><strong>This is my 3rd page</strong></p>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 100%; border-style: groove;\" border=\"1\"><caption>Table 1</caption>\n<tbody>\n<tr>\n<td style=\"width: 19.9801%;\">1</td>\n<td style=\"width: 19.9801%;\">2</td>\n<td style=\"width: 19.9801%;\">3</td>\n<td style=\"width: 19.9801%;\">4</td>\n<td style=\"width: 19.9846%;\">5</td>\n</tr>\n<tr>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9846%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9846%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9801%;\"> </td>\n<td style=\"width: 19.9846%;\"> </td>\n</tr>\n</tbody>\n</table>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://publii.cybersyn.cloud/media/posts/3/Antikythera_-1024x791.webp\" alt=\"\" width=\"1024\" height=\"791\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://publii.cybersyn.cloud/media/posts/3/responsive/Antikythera_-1024x791-xs.webp 320w ,https://publii.cybersyn.cloud/media/posts/3/responsive/Antikythera_-1024x791-sm.webp 480w ,https://publii.cybersyn.cloud/media/posts/3/responsive/Antikythera_-1024x791-md.webp 768w ,https://publii.cybersyn.cloud/media/posts/3/responsive/Antikythera_-1024x791-xl.webp 1024w\"></figure>",
             "author": {
                 "name": "rb"
             },
